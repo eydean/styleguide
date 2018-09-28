@@ -20,7 +20,6 @@ that apply to that project.
 -  [JavaScript Style Guide](https://eydean.github.io/styleguide/jsguide)
 -  [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
 -  [Emacs Lisp Style Guide](https://eydean.github.io/styleguide/elguide)
--  [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
 -  [Eydean Python Style (vim)](https://eydean.github.io/styleguide/eydean_python_style)
 -  [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
 -  [Emacs Config File](https://github.com/manishmarahatta/dot-emacs/blob/master/README.org)
@@ -32,6 +31,8 @@ that apply to that project.
 -  [AngularJS Style Guide](https://eydean.github.io/styleguide/angularjsguide)
 -  [R Style Guide](https://eydean.github.io/styleguide/rguide)
 -  [React/JSX Style Guide](https://eydean.github.io/styleguide/reactjsxguide)
+-  [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
+
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
