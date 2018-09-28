@@ -15,7 +15,7 @@ that apply to that project.
 
 -  [Python Style Guide](https://eydean.github.io/styleguide/pyguide)
 -  [CPP Style Guide](https://eydean.github.io/styleguide/cppguide)
--  [JAVA Style Guide](javaguide)
+-  [JAVA Style Guide](https://eydean.github.io/styleguide/javaguide)
 -  [Shell Style Guide](https://eydean.github.io/styleguide/shellguide)
 -  [JavaScript Style Guide](https://eydean.github.io/styleguide/jsguide)
 -  [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
