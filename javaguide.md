@@ -569,14 +569,7 @@ Constants are a great example of things that are frequently exposed in this way.
         ...
       }
     }
-    public class ConfigReaderTest {
-      @Test
-      public void testParseConfig() {
-        ...
-        assertEquals(expectedConfig,
-            reader.parseConfig(String.format("{%s: bob%}", ConfigReader.USER_FIELD)));
-      }
-    }
+   
 
 ### Use interfaces
 Interfaces decouple functionality from implementation, allowing you to use multiple implementations
