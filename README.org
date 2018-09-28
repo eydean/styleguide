@@ -1,4 +1,4 @@
-* styleguide
+# styleguide
 Style guides for Eydean-Originated Open-Source/In-house/Client based projects
 
 Every major open-source/in-house/client based project has its own style guide:
@@ -13,21 +13,21 @@ style guidelines we use for Eydean's code. If you are modifying a project that
 originated at Eydean, you may be pointed to this page to see the style guides
 that apply to that project.
 
-** [Python Style Guide](https://eydean.github.io/styleguide/pyguide)
-** [CPP Style Guide](https://eydean.github.io/styleguide/cppguide)
-** [JAVA Style Guide](https://eydean.github.io/styleguide/javaguide)
-** [Shell Style Guide](https://eydean.github.io/styleguide/shellguide)
-** [JavaScript Style Guide](https://eydean.github.io/styleguide/jsguide)
-** [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
-** [Emacs Lisp Style Guide](https://eydean.github.io/styleguide/elguide)
-** [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
-** [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
-** [Emacs Style Guide](https://eydean.github.io/styleguide/emacsguide)
-** [Emacs for C Style Guide](https://eydean.github.io/styleguide/emacscguide)
-** [XML Style Guide](https://eydean.github.io/styleguide/xmlguide)
-** [GO Style Guide](https://eydean.github.io/styleguide/goguide)
-** [AngularJS Style Guide](https://eydean.github.io/styleguide/angularjsguide)
-** [R Style Guide](https://eydean.github.io/styleguide/rguide)
+-  [Python Style Guide](https://eydean.github.io/styleguide/pyguide)
+-  [CPP Style Guide](https://eydean.github.io/styleguide/cppguide)
+-  [JAVA Style Guide](https://eydean.github.io/styleguide/javaguide)
+-  [Shell Style Guide](https://eydean.github.io/styleguide/shellguide)
+-  [JavaScript Style Guide](https://eydean.github.io/styleguide/jsguide)
+-  [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
+-  [Emacs Lisp Style Guide](https://eydean.github.io/styleguide/elguide)
+-  [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
+-  [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
+-  [Emacs Style Guide](https://eydean.github.io/styleguide/emacsguide)
+-  [Emacs for C Style Guide](https://eydean.github.io/styleguide/emacscguide)
+-  [XML Style Guide](https://eydean.github.io/styleguide/xmlguide)
+-  [GO Style Guide](https://eydean.github.io/styleguide/goguide)
+-  [AngularJS Style Guide](https://eydean.github.io/styleguide/angularjsguide)
+-  [R Style Guide](https://eydean.github.io/styleguide/rguide)
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
