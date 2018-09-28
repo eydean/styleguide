@@ -21,6 +21,7 @@ that apply to that project.
 -  [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
 -  [Emacs Lisp Style Guide](https://eydean.github.io/styleguide/elguide)
 -  [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
+-  [Eydean Python Style (vim)](https://eydean.github.io/styleguide/eydean_python_style)
 -  [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
 -  [Emacs Style Guide](https://eydean.github.io/styleguide/emacsguide)
 -  [Emacs for C Style Guide](https://eydean.github.io/styleguide/emacscguide)
