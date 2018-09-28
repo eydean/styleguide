@@ -15,10 +15,10 @@ that apply to that project.
 
 -  [Python Style Guide](https://eydean.github.io/styleguide/pyguide)
 -  [CPP Style Guide](https://eydean.github.io/styleguide/cppguide)
--  [JAVA Style Guide](https://eydean.github.io/styleguide/javaguide)
 -  [Shell Style Guide](https://eydean.github.io/styleguide/shellguide)
 -  [JavaScript Style Guide](https://eydean.github.io/styleguide/jsguide)
 -  [Common Lisp Style Guide](https://eydean.github.io/styleguide/clguide)
+-  [JAVA Style Guide](https://eydean.github.io/styleguide/javaguide)
 -  [Emacs Lisp Style Guide](https://eydean.github.io/styleguide/elguide)
 -  [Eydean Python Style (vim)](https://eydean.github.io/styleguide/eydean_python_style)
 -  [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
