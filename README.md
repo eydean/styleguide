@@ -23,6 +23,7 @@ that apply to that project.
 -  [Vimscript Style Guide](https://eydean.github.io/styleguide/vimguide)
 -  [Eydean Python Style (vim)](https://eydean.github.io/styleguide/eydean_python_style)
 -  [HTML/CSS Style Guide](https://eydean.github.io/styleguide/htmlcssguide)
+-  [Emacs Config File](https://github.com/manishmarahatta/dot-emacs/blob/master/README.org)
 -  [Emacs Style Guide](https://eydean.github.io/styleguide/emacsguide)
 -  [Emacs for C Style Guide](https://eydean.github.io/styleguide/emacscguide)
 -  [XML Style Guide](https://eydean.github.io/styleguide/xmlguide)
