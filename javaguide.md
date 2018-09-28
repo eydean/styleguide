@@ -574,7 +574,7 @@ Constants are a great example of things that are frequently exposed in this way.
       public void testParseConfig() {
         ...
         assertEquals(expectedConfig,
-            reader.parseConfig(String.format("{%s: bob}", ConfigReader.USER_FIELD)));
+            reader.parseConfig(String.format("{%s: bob%}", ConfigReader.USER_FIELD)));
       }
     }
 
