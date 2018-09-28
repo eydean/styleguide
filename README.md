@@ -29,6 +29,7 @@ that apply to that project.
 -  [GO Style Guide](https://eydean.github.io/styleguide/gostyle)
 -  [AngularJS Style Guide](https://eydean.github.io/styleguide/angularjsguide)
 -  [R Style Guide](https://eydean.github.io/styleguide/rguide)
+-  [React/JSX Style Guide](https://eydean.github.io/styleguide/reactjsxguide)
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
