@@ -27,6 +27,7 @@ that apply to that project.
 -  [Emacs for C Style Guide](https://eydean.github.io/styleguide/emacscguide)
 -  [XML Style Guide](https://eydean.github.io/styleguide/xmlguide)
 -  [GO Style Guide](https://eydean.github.io/styleguide/gostyle)
+-  [Ruby Style Guide](https://eydean.github.io/styleguide/rubyguide)
 -  [AngularJS Style Guide](https://eydean.github.io/styleguide/angularjsguide)
 -  [R Style Guide](https://eydean.github.io/styleguide/rguide)
 -  [React/JSX Style Guide](https://eydean.github.io/styleguide/reactjsxguide)
