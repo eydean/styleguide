@@ -1,3 +1,6 @@
+Copy the following code and paste it as "eydean_python_style.vim"
+
+```
 " Indent Python in the Eydean way.
 
 setlocal indentexpr=GetEydeanPythonIndent(v:lnum)
@@ -34,3 +37,4 @@ endfunction
 
 let pyindent_nested_paren="&sw*2"
 let pyindent_open_paren="&sw*2"
+```
